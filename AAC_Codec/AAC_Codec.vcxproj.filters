@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="pcm2aac.h">
+    <ClInclude Include="wav2aac.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
